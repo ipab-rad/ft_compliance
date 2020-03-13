@@ -1,6 +1,6 @@
 ### Kinesthetic demonstration
 
-<img align="right" alt="" src="https://github.com/ipab-rad/saifer-surgery/blob/master/src/saif_control/ft_compliance/ims/demo.gif" width="320" />Physically move red arm (only red has this functionality at present, to avoid risk of crushing blue camera). 
+<img align="right" alt="" src="https://github.com/ipab-rad/ft_compliance/ims/demo.gif" width="320" />Physically move red arm (only red has this functionality at present, to avoid risk of crushing blue camera). 
 
 #### Make sure to zero the ft sensor before launching this node. External forces due to new tools, cables or payloads can cause unwanted motion. 
 
